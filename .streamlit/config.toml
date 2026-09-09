@@ -1,0 +1,19 @@
+[theme]
+base = "dark"
+primaryColor = "#7C3AED"
+font = "sans serif"
+baseRadius = "medium"
+showWidgetBorder = true
+
+[theme.dark]
+backgroundColor = "#0B0D12"
+secondaryBackgroundColor = "#12151C"
+textColor = "#F8FAFC"
+borderColor = "#262B36"
+
+[theme.light]
+backgroundColor = "#F7F7F8"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#171717"
+borderColor = "#E5E7EB"
+primaryColor = "#6D28D9"
